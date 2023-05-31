@@ -30,3 +30,11 @@ body {
   a:hover {
     text-decoration: underline;
   }
+
+  a.hover{
+    margin-left: 1000%;
+  }
+  h1{
+    font-size: 2000px;
+  }
+
