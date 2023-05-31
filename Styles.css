@@ -19,7 +19,7 @@ body {
     list-style-type: disc;
     color: #666;
     font-size: 16px;
-    margin-left: 20px;
+    margin-left: 2000px;
   }
   
   a {
@@ -29,12 +29,6 @@ body {
   
   a:hover {
     text-decoration: underline;
-  }
-
-  a.hover{
-    margin-left: 1000%;
-  }
-  h1{
-    font-size: 2000px;
+    margin: 1000px;
   }
 
